@@ -78,7 +78,6 @@ genai-audit/
 ├── app.py              # Main application file
 ├── requirements.txt    # Python dependencies
 ├── Dockerfile         # Container configuration
-└── logo-jago.png      # Application logo
 ```
 
 ## Usage
